@@ -24,6 +24,11 @@ Version: 1.0
 	line-height: 45px;
 }
 
+body {
+	background: red !important;
+}
+
+
 .orbit-container {background: transparent;}
 
 #content,.sidebar{margin-top: 1em;}
